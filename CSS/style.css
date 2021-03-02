@@ -1,0 +1,43 @@
+/*Selector {
+    property: value;
+}*/
+
+body {
+    background-image: url(DM-Wallpaper-2001-5120x2880-featureda-scaled.jpg);
+    background-size: cover;
+}
+
+h2 {
+    color: #22608F;
+    text-align: center;
+    border: 5px solid;
+    cursor: pointer;
+}
+
+p {
+    color: rgba(0, 100, 200, 1);
+    line-height: 50px;
+    font-style:  italic;
+    font-weight: bold;
+    font-size: 180%;
+    font-family: 'Anton', sans-serif;
+}
+
+span {
+    font-size: 1.5em;
+}
+
+img {
+    float: left;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    color: white;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
